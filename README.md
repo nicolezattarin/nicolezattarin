@@ -10,4 +10,5 @@ Hi, I'm Nicole 🙃
 👩🏻‍💻 Interested in AI, Quantum technologies and Quantum ML 
  
 ![](https://github-readme-stats.vercel.app/api?username=nicolezattarin&theme=panda&count_private=true,prs)
+
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolezattarin&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
