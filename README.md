@@ -4,6 +4,8 @@
 - 📚 Studying MSc in Physics of Data at the University of Padova
 - ⚛️ Currently working on QML classification of jet images for jet tagging
 - 👩🏻‍💻 Interested in AI, Quantum technologies and Quantum ML 
+- 🔥 Fan facts: passionate about arts and F1 
+
 
 Looking forward for new projects and challanges!
  
