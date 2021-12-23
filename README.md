@@ -6,7 +6,7 @@
 - 👩🏻‍💻 Interested in AI, Quantum technologies and Quantum ML 
 - 🔥 Fan facts: passionate about arts and F1 
 
-contact: nicole.zattarin@gmail.com
+Contact: nicole.zattarin@gmail.com
 
  
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicole-zattarin-a87768105/) [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nicolezatta)
