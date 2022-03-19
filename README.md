@@ -1,7 +1,7 @@
 ## Hey people from the world! 👋🏻 I'm Nicole Zattarin 
 
 - 🎓 BSc in Physics at the University of Milan
-- 📚 Studying ICT for internet and multimedia at the University of Padova
+- 📚 Studying MSc in ICT for internet and multimedia at the University of Padova
 - ⚛️ Currently working on QML classification of jet images
 - 👩🏻‍💻 Interested in AI, Quantum technologies and Quantum ML 
 - 🔥 Fan facts: passionate about arts and obsessed with F1 
