@@ -3,7 +3,7 @@
 - 🎓 BSc in Physics at the University of Milan
 - 📚 Studying MSc in ICT for internet and multimedia at the University of Padova
 - ⚛️ Worked on Quantum Machine Learning models 
-- 👩🏻‍💻 Interested in AI, Quantum technologies and Quantum ML 
+- 👩🏻‍💻 Interested in AI, big data and Quantum Computing 
 - 🔥 Fan facts: passionate about arts and obsessed with F1 
 
 Contact: nicole.zattarin@gmail.com
