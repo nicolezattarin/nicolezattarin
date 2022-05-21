@@ -4,7 +4,7 @@
 - 📚 Studying MSc in ICT for internet and multimedia at the University of Padova
 - ⚛️ Worked on Quantum Machine Learning models 
 - 👩🏻‍💻 Interested in AI, big data and Quantum Computing 
-- 🔥 Fan facts: passionate about arts and obsessed with F1 
+- 🔥 Fun facts: passionate about arts and obsessed with F1 
 
 Contact: nicole.zattarin@gmail.com
 
