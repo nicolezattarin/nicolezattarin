@@ -2,7 +2,7 @@
 
 - 🎓 BSc in Physics at the University of Milan
 - 📚 Studying MSc in ICT for internet and multimedia at the University of Padova
-- 📈 Currently working on ML models developing for trading 
+- 📈 Currently working on ML models for trading 
 - 👩🏻‍💻 Interested in AI, data analytics 
 - 🏎️ Fun facts: F1 fanatic
 
