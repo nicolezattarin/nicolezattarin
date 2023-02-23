@@ -1,8 +1,8 @@
 ## Ciao people from the world! 👋🏻 I'm Nicole  
 
-- 🎓 BSc in Physics at the University of Milan
-- 📚 Studying MSc in ICT for internet and multimedia at the University of Padova
-- 📈 Currently working on ML models for trading 
+- 🎓 BSc in Physics @ University of Milan
+- 📚 MSc in ICT for internet and multimedia @ University of Padova
+- 📈 Working on ML models for trading 
 - 👩🏻‍💻 Interested in AI, data analytics 
 - 🏎️ Fun facts: F1 fanatic
 
