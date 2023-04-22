@@ -12,3 +12,8 @@ Contact: nicole.zattarin@gmail.com
 [ ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org) [![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ](https://www.cplusplus.com)
  
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github, gitlab, azure,cpp,py, pytorch,postgres" />
+  </a>
+</p>
