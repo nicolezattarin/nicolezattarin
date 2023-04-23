@@ -12,6 +12,6 @@ Contact: nicole.zattarin@gmail.com
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,azure,cpp,py,pytorch,postgres" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,azure,cpp,py,pytorch,vision,latex,postgres" />
   </a>
 </p>
