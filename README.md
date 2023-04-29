@@ -1,3 +1,4 @@
+[Hi everybody!](https://nicolezattarin.github.io)
 - 🎓 BSc in Physics @ University of Milan
 - 📚 MSc in ICT for Internet and Multimedia @ University of Padova
 - 📈 Developing models for Algorithmic Trading  
