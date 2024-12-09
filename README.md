@@ -1,7 +1,7 @@
 ## [Hi everybody!](https://nicolezattarin.github.io)
 - 🎓 BSc in Physics @ University of Milan
 - 🎓 MSc in ICT for Internet and Multimedia @ University of Padova
-- 📈 Algorithmic Trading Quant @ XSOR Capital
+- 📈 Algo Trading Quant @ XSOR Capital
 - 👩🏻‍💻 Interested in AI, data analytics 
 - 🏎️ Fun facts: F1 fanatic
 
